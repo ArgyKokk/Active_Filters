@@ -1,7 +1,7 @@
 # Active_Filters
 Design of four different analog filters with different specifications each.
 Low Pass filter, Band Pass filter, Band Elimination filter , High Pass filter
-All filters were designed in MATLAB and implemented on Multisim.<br>
+All filters were designed in MATLAB and implemented in Multisim.<br>
 course: Design of active filters, AUTH, 2020
 
 ## Low Pass filter
